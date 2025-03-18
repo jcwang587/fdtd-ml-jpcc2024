@@ -1,6 +1,6 @@
 # fdtd-ml-jpcc2024
 
-This is the official repository for the publication
+This is the repository for the machine learning codes applied in the publication *Machine Learning-Assisted Light Management and Electromagnetic Field Modulation of Large-Area Plasmonic Coaxial Cylindrical Pillar/Ring Nanoarray Patterns*.
 
 ## Introduction
 
