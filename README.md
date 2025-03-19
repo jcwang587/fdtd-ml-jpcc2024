@@ -12,7 +12,7 @@ As required by the program, the data calculated from the FDTD simulation is not 
 
  `xgboost_opt_multi`: Training script for (1) the multiple targets electric field enhancement and Q-factor, and (2) SHAP analysis for model explanation.
 
-If you have any questions regarding the code or setting up your project, please feel free to leave a message in the issues channel.
+If you have any questions regarding the code or setting up your project, please feel free to leave a message in the [issues](https://github.com/jcwang587/fdtd-ml-jpcc2024/issues) channel.
 
 ## Reference
 
